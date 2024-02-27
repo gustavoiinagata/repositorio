@@ -5,3 +5,7 @@ html  {
     color:var(--cor-de-texto);
 }
 .figurinha{display: flex;}
+
+.cc{
+    display: flex;
+}
