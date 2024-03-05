@@ -5,8 +5,12 @@ html  {
     background-color: var(--cor-de-fundo) ;
     color:var(--cor-de-texto);
 }
+#texto{
+    color: #108751;
+}
 .cc{
     display: flex;
     justify-content: space-around;
     align-items: center;
 }
+
