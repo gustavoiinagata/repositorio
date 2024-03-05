@@ -1,2 +1,2 @@
 alert('não gozei');
-prompt('Qual é a cor da sua lingua?');
+prompt('Qual é o seu rapper favorito?');
