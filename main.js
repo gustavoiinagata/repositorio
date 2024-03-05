@@ -2,8 +2,11 @@ alert('não gozei');
 let nomeUsuario = "";
 let anterior = document.querySelector('#texto');
 
-while( nomeUsuario == "" || nomeUsuario == null){
+while( nomeUsuario == ""){
     nomeUsuario = prompt('Qual é o seu rapper favorito?');
 }
-
-anterior.textContent = nomeUsuario;
+if(nomeUsuario ==null){
+    anterior.textContent = 'usuario';
+} else {
+   anterior.textContent = nomeUsuario;
+}
