@@ -1,2 +1,2 @@
 alert('não gozei');
-prompt('Qual é o seu rapper favorito?');
+let nomeUsuario = prompt('Qual é o seu rapper favorito?');
