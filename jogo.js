@@ -1,5 +1,5 @@
-let numeroSecreto = 8;
-
+let numeroSecreto = kendrick lamar;
+console.log(numeroSecreto);
 let chute = '';
 
 
