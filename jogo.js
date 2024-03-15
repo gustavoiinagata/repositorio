@@ -1,6 +1,6 @@
 let numeroSecreto = 8;
 
-let chute = ' ';
+let chute = '';
 
 
 
