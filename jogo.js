@@ -1,3 +1,3 @@
 let numeroSecreto = 8;
 
-alert ('fala animal, suave?')
+let chute = prompt ('fala animal, suave?');
