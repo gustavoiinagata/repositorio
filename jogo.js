@@ -1,4 +1,4 @@
-let numeroSecreto = kendrick lamar;
+let numeroSecreto = 8;
 console.log(numeroSecreto);
 let chute = '';
 
