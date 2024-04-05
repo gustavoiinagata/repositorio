@@ -13,4 +13,7 @@ html  {
     justify-content: space-around;
     align-items: center;
 }
-
+.contagem{
+    background-color: beige;
+    padding: 20px 0;
+}
