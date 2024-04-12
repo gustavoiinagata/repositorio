@@ -11,6 +11,6 @@ for (let x = 0; x<botoes. length; x++){
         botoes[x].classList.add('ativo');
         textos[x].classList.add('ativa');
 }
-//botoes[x].classList.remove('atvo');}
+//botoes[x].classList.remove('ativo');}
 }
 
